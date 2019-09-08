@@ -4,7 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World!");
+        Console.WriteLine("Happy me???");
+        Console.Write("Please press any key...");
         Console.ReadKey();
     }
 }
