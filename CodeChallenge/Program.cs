@@ -2,11 +2,14 @@
 
 class Program
 {
-    //static void Main(string[] args)
-    //{
-    //    Console.WriteLine("Happy me???");
-    //    Console.Write("Please press any key...");
-    //    Console.ReadKey();
-    //}
+    static void Main(string[] args)
+    {
+        Challenge1 ch1 = new Challenge1();
+
+        ch1.AnswerChallenge1();
+
+        Console.Write("\nPlease press any key to exit...");
+        Console.ReadKey();
+    }
 }
 
