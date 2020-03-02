@@ -31,8 +31,8 @@ Write an efficient algorithm for the following assumptions:
 N is an integer within the range [1..100,000];
 each element of array A is an integer within the range [−1,000,000..1,000,000].
 
-[easy] challenge #3
-====================
+[Intermediate] challenge #3
+============================
 You are climbing a stair case. It takes N steps to reach to the top.
 Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
 
@@ -54,3 +54,17 @@ Explanation: There are three ways to climb to the top.
 1. 1 step + 1 step + 1 step
 2. 1 step + 2 steps
 3. 2 steps + 1 step
+
+
+[Intermediate] challenge #4
+============================
+Find duplicate number
+
+Given an array numbers containing n+1 integers where each integer is between 1 and n (inclusive), prove that at least one duplicate number must exist. Assume that there is only one duplicate number, find the duplicate one.
+
+Example:
+Input: [1, 3, 4, 2, 2]
+Output: 2
+
+Input: [3, 1, 3, 4, 2]
+Output: 3
