@@ -31,7 +31,7 @@ Write an efficient algorithm for the following assumptions:
 N is an integer within the range [1..100,000];
 each element of array A is an integer within the range [−1,000,000..1,000,000].
 
-[Intermediate] challenge #3
+[Intermediate] challenge #4
 ============================
 You are climbing a stair case. It takes N steps to reach to the top.
 Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
@@ -56,7 +56,7 @@ Explanation: There are three ways to climb to the top.
 3. 2 steps + 1 step
 
 
-[Intermediate] challenge #4
+[Intermediate] challenge #5
 ============================
 Find duplicate number
 
