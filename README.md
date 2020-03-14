@@ -1,5 +1,5 @@
 # CodeChallenge
-Test your programming skill and problem solving. The difficulty of a challenge is rated by my skills and problem solving. All of this solution mainly writen in C#. 
+The reason of code challenge is to test my programming skill and problem solving. The difficulty of a challenge is rated by my ability to solve a problem and understanding of the theory. All of this solution mainly writen in C#. 
 
 Let's have fun!
 
